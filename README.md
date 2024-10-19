@@ -17,5 +17,3 @@ git commit -m "file2.txt에 내용 추가"
 echo "README 업데이트" >> README.md
 git add README.md
 git commit -m "README.md 업데이트"
-
-git push -u origin master
