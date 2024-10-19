@@ -1,0 +1,13 @@
+touch .gitignore
+
+  
+*.log
+*.tmp
+
+
+build/
+dist/
+
+
+.DS_Store
+Thumbs.db
